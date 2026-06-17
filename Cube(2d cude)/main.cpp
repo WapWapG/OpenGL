@@ -56,5 +56,5 @@ int main()
 }
 
 
-//Coded by Genius
+//Coded by WapWapG
 //My steam: https://steamcommunity.com/profiles/76561199850375269/
